@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="minus">-</string>
+    <string name="order">ORDER</string>
+    <string name="text">How many cups of coffee you want to order?</string>
+    <string name="zero">0</string>
+    <string name="price">Price</string>
+    <string name="plus">+</string>
+</resources>
